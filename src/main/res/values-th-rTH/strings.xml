@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talalarmo</string>
+    <string name="settings">ตั้งค่า</string>
+    <string name="leave_feedback">แสดงความคิดเห็น</string>
+    <string name="settings_ringtone_option">ตั้งค่าริงโทน</string>
+    <string name="settings_snap_option">ปัดเพื่อเพิ่ม 5 นาที</string>
+    <string name="settings_theme_option">ธีม</string>
+    <string name="settings_vibration_option">ตั้งค่าสั่น</string>
+    <string name="settings_volume_increase_option">ตั้งค่าเสียงให้เพิ่ม</string>
+    <string name="tv_start_alarm_text">แตะตรงนี้[...]</string>
+    <string name="hour">1 ชั่วโมง</string>
+    <string name="hours">%s ชั่วโมง</string>
+    <string name="minute">1 นาที</string>
+    <string name="minutes">%s นาที</string>
+
+
+    <string-array name="alarm_set">
+        <!-- <item>This alarm is set for less than 1 minute from now</item> -->
+        <item>ตั้งค่าเวลานับถอยหลังเป็นเวลา 1 นาทีจากตอนนี้</item>
+        <item>ตั้งค่าเวลานับถอยหลังเป็นเวลา %1$s จากตอนนี้</item>
+        <item>ตั้งค่าเวลานับถอยหลังเป็นเวลา %2$s จากตอนนี้</item>
+        <item>ตั้งค่าเวลานับถอยหลังเป็นเวลา %1$s  %2$s จากตอนนี้</item>
+    </string-array>
+
+    <string-array name="settings_themes">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+</resources>
